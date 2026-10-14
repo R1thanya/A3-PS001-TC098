@@ -2,7 +2,7 @@
 ### Android Ransomware-Like Activity Early Warning in a Controlled Lab
 **Category:** Cyber Security  
 **Team Name:** ShieldX Lab (aiori-hackathon)  
-**Deliverable PDF:** [`Proposed-structure-hackathon.pdf`](Proposed-structure-hackathon.pdf)  
+**Deliverable PDF:** Attached
 **Pseudocode Snippet:** [`docs/PSEUDOCODE_SNIPPET.md`](docs/PSEUDOCODE_SNIPPET.md)  
 
 ---
