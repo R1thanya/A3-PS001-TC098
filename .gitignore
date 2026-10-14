@@ -1,0 +1,11 @@
+.toolchain/
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+results/raw/
